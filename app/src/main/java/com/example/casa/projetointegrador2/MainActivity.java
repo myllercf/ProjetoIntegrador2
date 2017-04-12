@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Snackbar.make(view, "myllercf@gmail.com", Snackbar.LENGTH_LONG)
+                Snackbar.make(view, "http://portalsaude.saude.gov.br", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
             }
         });
