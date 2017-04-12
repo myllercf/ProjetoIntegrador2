@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ProjetoIntegrador2</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- Campos tela 1-->
+    <string name="cabecalho">Índice da Massa Corpóreo!</string>
+    <string name="campo_altura">altura: </string>
+    <string name="campo_peso">peso: </string>
+    <string name="campo_sexo">selecione o sexo</string>
+    <string name="botao">Calcular</string>
+
+    <!-- Campos tela 2-->
+    <string name="resultado">O seu IMC é: </string>
+
+    <!--Menu Lateral-->
+    <string name="tituloMenu">ETE Cícero Dias</string>
+    <string name="subTituloMenu">Selecione o sexo</string>
+    <string name="sexoMasculino">Masculino</string>
+    <string name="sexoFeminino">Feminino</string>
+</resources>
